@@ -1,0 +1,16 @@
+# API keys — NEVER commit these
+config.py
+
+# Cached data
+pl_data/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
